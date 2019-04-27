@@ -28,3 +28,6 @@ from .models import Question
 admin.site.register(Question)
 for polls we can run this:
 py manage.py makemigrations polls
+
+username:admin19
+pass:pm2281071332
